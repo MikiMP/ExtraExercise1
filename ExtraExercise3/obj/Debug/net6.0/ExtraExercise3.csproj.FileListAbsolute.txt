@@ -1,0 +1,15 @@
+C:\Users\HP ProBook\Desktop\MP\С#\ExtraExercises\ExtraExercise3\bin\Debug\net6.0\ExtraExercise3.exe
+C:\Users\HP ProBook\Desktop\MP\С#\ExtraExercises\ExtraExercise3\bin\Debug\net6.0\ExtraExercise3.deps.json
+C:\Users\HP ProBook\Desktop\MP\С#\ExtraExercises\ExtraExercise3\bin\Debug\net6.0\ExtraExercise3.runtimeconfig.json
+C:\Users\HP ProBook\Desktop\MP\С#\ExtraExercises\ExtraExercise3\bin\Debug\net6.0\ExtraExercise3.dll
+C:\Users\HP ProBook\Desktop\MP\С#\ExtraExercises\ExtraExercise3\bin\Debug\net6.0\ExtraExercise3.pdb
+C:\Users\HP ProBook\Desktop\MP\С#\ExtraExercises\ExtraExercise3\obj\Debug\net6.0\ExtraExercise3.csproj.AssemblyReference.cache
+C:\Users\HP ProBook\Desktop\MP\С#\ExtraExercises\ExtraExercise3\obj\Debug\net6.0\ExtraExercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP ProBook\Desktop\MP\С#\ExtraExercises\ExtraExercise3\obj\Debug\net6.0\ExtraExercise3.AssemblyInfoInputs.cache
+C:\Users\HP ProBook\Desktop\MP\С#\ExtraExercises\ExtraExercise3\obj\Debug\net6.0\ExtraExercise3.AssemblyInfo.cs
+C:\Users\HP ProBook\Desktop\MP\С#\ExtraExercises\ExtraExercise3\obj\Debug\net6.0\ExtraExercise3.csproj.CoreCompileInputs.cache
+C:\Users\HP ProBook\Desktop\MP\С#\ExtraExercises\ExtraExercise3\obj\Debug\net6.0\ExtraExercise3.dll
+C:\Users\HP ProBook\Desktop\MP\С#\ExtraExercises\ExtraExercise3\obj\Debug\net6.0\refint\ExtraExercise3.dll
+C:\Users\HP ProBook\Desktop\MP\С#\ExtraExercises\ExtraExercise3\obj\Debug\net6.0\ExtraExercise3.pdb
+C:\Users\HP ProBook\Desktop\MP\С#\ExtraExercises\ExtraExercise3\obj\Debug\net6.0\ExtraExercise3.genruntimeconfig.cache
+C:\Users\HP ProBook\Desktop\MP\С#\ExtraExercises\ExtraExercise3\obj\Debug\net6.0\ref\ExtraExercise3.dll
